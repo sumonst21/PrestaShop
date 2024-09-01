@@ -54,7 +54,7 @@
         "nikic/php-parser": "^4.0",
         "nyholm/psr7": "^1.5",
         "pelago/emogrifier": "^v7.0.0",
-        "phpoffice/phpspreadsheet": "^1.19",
+        "phpoffice/phpspreadsheet": "^2.2",
         "prestashop/autoload": "^v1.0.2",
         "prestashop/blockreassurance": "^5",
         "prestashop/blockwishlist": "^3.0",
