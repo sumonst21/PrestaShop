@@ -19,7 +19,7 @@
     },
     "devDependencies": {
         "babel-eslint": "^10.0.3",
-        "esbuild-loader": "^2.15.1",
+        "esbuild-loader": "^4.3.0",
         "eslint": "^6.8.0",
         "eslint-config-airbnb-base": "^14.0.0",
         "eslint-import-resolver-webpack": "^0.12.1",
@@ -27,7 +27,7 @@
         "eslint-plugin-import": "^2.20.0",
         "mini-css-extract-plugin": "^2.6.1",
         "path": "^0.12.7",
-        "webpack": "^5.37.1",
+        "webpack": "^5.99.5",
         "webpack-cli": "^4.7.0"
     }
 }
